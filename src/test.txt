@@ -1,0 +1,36 @@
+########################################################################
+HOSTNAME:<2291_Brest_S9303> IP:172.28.37.4
+PHY: Physical
+*down: administratively down
+^down: standby
+-l-: loopback
+-s-: spoofing
+-b-: BFD down
+-e-: ET
+########################################################################
+HOSTNAME:<2291_Brest_303> IP:172.28.37.4
+PHY: Physical
+*down: administratively down
+^down: standby
+-l-: loopback
+-s-: spoofing
+-b-: BFD down
+-e-: ET
+########################################################################
+HOSTNAME:<2291_Bt_S9303> IP:172.28.37.4
+PHY: Physical
+*down: administratively down
+^down: standby
+-l-: loopback
+-s-: spoofing
+-b-: BFD down
+-e-: ET
+########################################################################
+HOSTNAME:<2_Brest_S9303> IP:172.28.37.4
+PHY: Physical
+*down: administratively down
+^down: standby
+-l-: loopback
+-s-: spoofing
+-b-: BFD down
+-e-: ET
